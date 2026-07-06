@@ -143,22 +143,25 @@ The project follows a Star Schema design.
 
 ### Home
 
-![1-Home Page](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\1-Home Page.png)
+<img width="1117" height="627" alt="1-Home Page" src="https://github.com/user-attachments/assets/80f2cd69-be7d-41b3-8054-40a84c4f18a3" />
 
 ### Executive Dashboard
 
-![2-Executive Dashboard](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\2-Executive Dashboard.png)
+<img width="1122" height="627" alt="2-Executive Dashboard" src="https://github.com/user-attachments/assets/0237c92a-89ce-4898-96a2-8732e2c2254f" />
+
 
 ### Service Performance
 
-![3-Service Performance](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\3-Service Performance.png)
+<img width="1123" height="632" alt="3-Service Performance" src="https://github.com/user-attachments/assets/56a6d1f3-43c4-42e4-a56e-0152c1e4b082" />
+
 ### Agent Performance
 
-![4-Agent Performance](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\4-Agent Performance.png)
+<img width="1123" height="633" alt="4-Agent Performance" src="https://github.com/user-attachments/assets/1f11d155-d516-481e-864b-b91c9e57385f" />
+
 
 ### Insights & Recommendations
 
-![5-Insights & Recommendations](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\5-Insights & Recommendations.png)
+<img width="1112" height="622" alt="5-Insights   Recommendations" src="https://github.com/user-attachments/assets/f8da50d0-2598-4888-9b49-45e029f8bc2e" />
 
 ---
 
@@ -199,3 +202,11 @@ Data Analyst | Business Intelligence Enthusiast
 ---
 
 ⭐ If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
+
+## Disclaimer
+
+This project was developed for educational and portfolio purposes only.
+
+The dashboard is inspired by a call center business scenario and is not affiliated with or endorsed by Teleperformance.
+
+Any logos or brand elements are used solely for demonstration purposes.

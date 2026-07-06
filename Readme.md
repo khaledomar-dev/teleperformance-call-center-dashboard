@@ -143,22 +143,22 @@ The project follows a Star Schema design.
 
 ### Home
 
-![alt text](<1-Home Page.png>)
+![1-Home Page](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\1-Home Page.png)
 
 ### Executive Dashboard
 
-![alt text](<2-Executive Dashboard.png>)
+![2-Executive Dashboard](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\2-Executive Dashboard.png)
 
 ### Service Performance
 
-![alt text](<3-Service Performance.png>)
+![3-Service Performance](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\3-Service Performance.png)
 ### Agent Performance
 
-![alt text](<4-Agent Performance.png>)
+![4-Agent Performance](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\4-Agent Performance.png)
 
 ### Insights & Recommendations
 
-![alt text](<5-Insights & Recommendations.png>)
+![5-Insights & Recommendations](E:\Lerning programing\DATA SCIENCE\Data Analysis\Projects\TP Call Center\Teleperformance-Call-Center-Project\Screenshots\5-Insights & Recommendations.png)
 
 ---
 
